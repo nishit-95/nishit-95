@@ -1,11 +1,33 @@
-👋 Hi, I'm Nishit Vataliya!
+# 👋 Hi, I'm Nishit Vataliya  
 
-🚀 Software Developer | 👨‍💻 Open Source Enthusiast | 💡 Tech Innovator
+🚀 .NET & React Developer | 👨‍💻 Open Source Enthusiast | 💡 Tech Innovator  
 
-- 🌱 Currently working on React and ASP.NET.
-- 👯 Looking to collaborate on exciting tech projects.
-- 💼 Experienced in Responsive Web Development.
-- 🔭 Exploring new technologies like DevOps.
-- 📫 Reach me at Email- nishitvataliya003@gmail.com or LinkedIn- @nishit-vataliya.
+💼 I specialize in building **scalable, secure, and responsive web applications** using **ASP.NET Core (C#)** and modern front-end frameworks like **React**. Passionate about exploring **cloud & DevOps** to deliver production-ready solutions.  
 
-Check out my pinned repositories to see some of my work!
+---
+
+### 🌱 Currently
+- Working on **React & ASP.NET Core projects**
+- Exploring **DevOps & Azure Cloud Services**
+- Building side projects to sharpen my skills  
+
+---
+
+### 🛠️ Tech Stack
+- 💻 Languages: C#, JavaScript, SQL  
+- 🌐 Frameworks: ASP.NET Core, React, Bootstrap  
+- 🗄️ Databases: SQL Server, MySQL  
+- ☁️ Cloud: Azure (App Services, DevOps, Functions)  
+- 🔧 Tools: Git, VS Code, Docker, Postman  
+
+---
+
+### 👯 Collaboration
+I’m open to collaborating on **.NET, React, and Cloud-based projects** 🚀  
+
+---
+
+### 📫 Let’s Connect
+- [Email](mailto:nishitvataliya003@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/nishit-vataliya)  
+
